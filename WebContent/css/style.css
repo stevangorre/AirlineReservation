@@ -1,0 +1,51 @@
+body{
+	text-align:center;
+}
+form{
+	margin:0 auto;
+}
+table{
+margin:0 auto;
+ border:2px solid; 
+ border-radius:6px;
+    width: 35%;
+    padding: 20px;
+    }
+/* th,td{
+	border-bottom:1px solid; 
+} */
+thead{
+	border-bottom:1px solid;
+}
+td {
+    padding: 10px;
+}
+.error{
+	color:red;
+}
+
+ul{
+	margin:0 auto;
+	list-style-type:none;
+}
+li{
+	float:left;
+}
+li a{
+font-weight: bold;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 14px 14px;
+    background: lightseagreen;
+    border-right: 2px solid white;
+}
+.error{
+	color:red;
+}
+.success{
+	color:green;
+}
+.hidden{
+	display:none;
+}
